@@ -1,0 +1,52 @@
+# General
+*.DS_Store
+.AppleDouble
+.LSOverride
+
+# Fichiers système
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Dossiers système
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# Fichiers temporaires et générés par Python
+*.pyc
+__pycache__
+*.egg-info
+*.dist
+build
+
+# Fichiers de configuration et de développement
+.idea/*
+.vscode/*
+pycharm-*.iml
+*.settings
+env
+
+# Fichiers de base de données et de cache (si applicables)
+sqlite3.db
+*.cache
+
+# Fichiers de configuration spécifiques au projet (si applicables)
+config.json
+settings.py
+environment.yml
+
+# Fichiers de journaux et de traces
+*.log
+*.txt
+
+# Fichiers temporaires générés par d'autres outils
+*.ipynb
+
+# (Ajout ici si autres fichiers et dossiers spécifiques au projet)
